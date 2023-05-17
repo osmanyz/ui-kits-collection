@@ -82,6 +82,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [React Native Navigation](https://github.com/wix/react-native-navigation) | [Link](https://wix.github.io/react-native-navigation) | Navigation |
 | [React Native Map](https://github.com/react-native-maps/react-native-maps) | [Link](https://github.com/react-native-maps/react-native-maps/tree/master/docs) | Maps |
 | [React Native Network](https://github.com/react-native-netinfo/react-native-netinfo) | Link | Network |
+| [React Native Wifi Connection](https://github.com/JuanSeBestia/react-native-wifi-reborn) | Link | Network |
 
 
 
