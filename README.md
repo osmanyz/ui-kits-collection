@@ -23,6 +23,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [Meraki UI](https://github.com/merakiui/merakiui) | [Link](https://merakiui.com) |
 | [NextUI](https://github.com/nextui-org/nextui) | [Link](https://nextui.org) |
 | [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Link](https://onsen.io/react) |
+| [Polaris](https://github.com/Shopify/polaris) | [Link]( https://polaris.shopify.com) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Link](https://primereact.org/) |
 | [Reactstrap](https://github.com/reactstrap/reactstrap) | [Link](https://reactstrap.github.io) |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | [Link](https://react-bootstrap.github.io) |
