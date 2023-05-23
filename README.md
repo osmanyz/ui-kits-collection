@@ -8,6 +8,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | - | - |
 | [Ant Design](https://github.com/ant-design/ant-design) | [Link](https://ant.design) |
 | [Atlassian Design System](https://atlassian.design) | [Link](https://atlassian.design/get-started) |
+| [Amplify UI](https://github.com/aws-amplify/amplify-ui) | [Link](https://ui.docs.amplify.aws/react/getting-started/introduction) |
 | [Base Web React UI framework](https://github.com/uber/baseweb) | [Link](https://baseweb.design) |
 | [Blueprint](https://github.com/palantir/blueprint) | [Link](https://blueprintjs.com/docs) |
 | [Carbon Components React](https://github.com/carbon-design-system/carbon/tree/main/packages/react) | [Link](https://react.carbondesignsystem.com) |
@@ -85,6 +86,3 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [React Native Map](https://github.com/react-native-maps/react-native-maps) | [Link](https://github.com/react-native-maps/react-native-maps/tree/master/docs) | Maps |
 | [React Native Network](https://github.com/react-native-netinfo/react-native-netinfo) | Link | Network |
 | [React Native Wifi Connection](https://github.com/JuanSeBestia/react-native-wifi-reborn) | Link | Network |
-
-
-
