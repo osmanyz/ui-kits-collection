@@ -11,6 +11,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [Amplify UI](https://github.com/aws-amplify/amplify-ui) | [Link](https://ui.docs.amplify.aws/react/getting-started/introduction) |
 | [Base Web React UI framework](https://github.com/uber/baseweb) | [Link](https://baseweb.design) |
 | [Blueprint](https://github.com/palantir/blueprint) | [Link](https://blueprintjs.com/docs) |
+| [Braid Design System](https://github.com/seek-oss/braid-design-system) | [Link](https://seek-oss.github.io/braid-design-system) |
 | [Carbon Components React](https://github.com/carbon-design-system/carbon/tree/main/packages/react) | [Link](https://react.carbondesignsystem.com) |
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Link](https://chakra-ui.com/getting-started) |
 | [Evergreen](https://github.com/segmentio/evergreen) | [Link](https://evergreen.segment.com) |
