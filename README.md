@@ -23,7 +23,6 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [Material Tailwind](https://github.com/creativetimofficial/material-tailwind) | [Link](https://www.material-tailwind.com) |
 | [Meraki UI](https://github.com/merakiui/merakiui) | [Link](https://merakiui.com) |
 | [NextUI](https://github.com/nextui-org/nextui) | [Link](https://nextui.org) |
-| [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Link](https://onsen.io/react) |
 | [Polaris](https://github.com/Shopify/polaris) | [Link]( https://polaris.shopify.com) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Link](https://primereact.org/) |
 | [Reactstrap](https://github.com/reactstrap/reactstrap) | [Link](https://reactstrap.github.io) |
@@ -68,6 +67,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [React Native Elements](https://github.com/react-native-elements/react-native-elements) | [Link](https://reactnativeelements.com/) |
 | [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten) | [Link](https://akveo.github.io/react-native-ui-kitten) |
 | [NativeBase](https://github.com/GeekyAnts/nativebase) | [Link](https://nativebase.io) |
+| [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Link](https://onsen.io/react) |
 | [FluentUI React Native](https://github.com/microsoft/fluentui-react-native) | [Link](https://developer.microsoft.com/fluentui) |
 | [Tamagui](https://github.com/tamagui/tamagui) | [Link](https://tamagui.dev) |
 | [React Native Kawaii](https://github.com/miukimiu/react-kawaii) | [Link](https://react-kawaii.vercel.app) | SVG |
