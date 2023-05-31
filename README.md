@@ -32,6 +32,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [React Suite](https://github.com/rsuite/rsuite) | [Link](https://rsuitejs.com) |
 | [Reakit](https://github.com/ariakit/ariakit) | [Link](https://ariakit.org) |
 | [Ring UI](https://github.com/JetBrains/ring-ui) | [Link](https://jetbrains.github.io/ring-ui/master) |
+| [shadcn/ui](https://github.com/shadcn/ui) | [Link](https://ui.shadcn.com/docs) |
 | [Zendesk Garden](https://github.com/zendeskgarden/react-components) | [Link](https://garden.zendesk.com) |
 
 
