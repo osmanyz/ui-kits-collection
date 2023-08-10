@@ -26,7 +26,8 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [Meraki UI](https://github.com/merakiui/merakiui) | [Link](https://merakiui.com) |
 | [NextUI](https://github.com/nextui-org/nextui) | [Link](https://nextui.org) |
 | [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Link](https://onsen.io/react) |
-| [Polaris](https://github.com/Shopify/polaris) | [Link]( https://polaris.shopify.com) |
+| [PatternFly](https://github.com/patternfly/patternfly-react) | [Link](https://www.patternfly.org/get-started/develop#react) |
+| [Polaris](https://github.com/Shopify/polaris) | [Link](https://polaris.shopify.com) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Link](https://primereact.org/) |
 | [Headless UI](https://github.com/tailwindlabs/headlessui) | [Link](https://headlessui.com) |
 | [Radix Primitives](https://github.com/radix-ui/primitives) | [Link](https://www.radix-ui.com/docs/primitives/overview/introduction) |
