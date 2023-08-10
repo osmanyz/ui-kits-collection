@@ -15,6 +15,7 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [Braid Design System](https://github.com/seek-oss/braid-design-system) | [Link](https://seek-oss.github.io/braid-design-system) |
 | [Carbon Components React](https://github.com/carbon-design-system/carbon/tree/main/packages/react) | [Link](https://react.carbondesignsystem.com) |
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Link](https://chakra-ui.com/getting-started) |
+| [Elastic UI](https://github.com/elastic/eui) | [Link](https://eui.elastic.co) |
 | [Evergreen](https://github.com/segmentio/evergreen) | [Link](https://evergreen.segment.com) |
 | [Fluent UI](https://github.com/microsoft/fluentui) | [Link](https://react.fluentui.dev) |
 | [Gestalt](https://github.com/pinterest/gestalt) | [Link](https://gestalt.pinterest.systems/home) |
