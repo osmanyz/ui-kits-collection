@@ -79,6 +79,8 @@ I collected the best [React](https://react.dev) & [React Native](https://reactna
 | [NativeBase](https://github.com/GeekyAnts/nativebase) | [Link](https://nativebase.io) |
 | [FluentUI React Native](https://github.com/microsoft/fluentui-react-native) | [Link](https://developer.microsoft.com/fluentui) |
 | [Tamagui](https://github.com/tamagui/tamagui) | [Link](https://tamagui.dev) |
+| [NativeWind](https://github.com/marklawlor/nativewind) | [Link](https://www.nativewind.dev/) |
+| [Gluestack UI](https://github.com/gluestack/gluestack-ui) | [Link](https://ui.gluestack.io) |
 | [React Native Kawaii](https://github.com/miukimiu/react-kawaii) | [Link](https://react-kawaii.vercel.app) | SVG |
 
 
