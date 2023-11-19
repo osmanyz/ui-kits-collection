@@ -119,7 +119,7 @@ I collected the best [VueJS](https://vuejs.org) ui kits, frameworks and tools fo
 | [Mamba UI](https://github.com/Microwawe/mamba-ui) | [Link](https://mambaui.com) |
 | [Kometa UI Kit](https://kitwind.io/products/kometa) | [Link](https://kitwind.io/products/kometa) |
 | [Flowbite](https://github.com/themesberg/flowbite) | [Link](https://flowbite.com/docs/getting-started/quickstart) |
-
+| [Vant](https://github.com/youzan/vant) | [Link](https://vant-ui.github.io/vant/#/en-US) |
 
 ### Vue JS Frameworks
 
