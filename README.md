@@ -1,147 +1,184 @@
-# UI Kits, Frameworks and Tools
+# 🎨 UI Kits, Frameworks and Tools Collection
 
-As a Software Developer, I always follow the new trends.
+> A curated collection of the best UI kits, frameworks, and tools for modern web and mobile development.
 
-# React JS and React Native
-I collected the best [React](https://react.dev) & [React Native](https://reactnative.dev) ui kits, frameworks and tools for you.  
+## 📖 Table of Contents
+- [⚛️ React & React Native](#️-react--react-native)
+- [💚 Vue.js](#-vuejs)
+- [📱 Flutter](#-flutter)
+- [🤝 Contributing](#-contributing)
 
-### React UI Kits
-| Name | Documentation |
-| - | - |
-| [Ant Design](https://github.com/ant-design/ant-design) | [Link](https://ant.design) |
-| [Ant Design Mobile](https://github.com/ant-design/ant-design-mobile) | [Link](https://mobile.ant.design) |
-| [Arco Design Mobile](https://github.com/arco-design/arco-design-mobile) | [Link](https://arco.design/mobile/react/arco-design/pc/#/en-US/#/en-US/) |
-| [Atlassian Design System](https://atlassian.design) | [Link](https://atlassian.design/get-started) |
-| [Amplify UI](https://github.com/aws-amplify/amplify-ui) | [Link](https://ui.docs.amplify.aws/react/getting-started/introduction) |
-| [Arco Design](https://github.com/arco-design/arco-design) | [Link](https://arco.design/react/en-US/docs/start) |
-| [Base Web React UI framework](https://github.com/uber/baseweb) | [Link](https://baseweb.design) |
-| [Blueprint](https://github.com/palantir/blueprint) | [Link](https://blueprintjs.com/docs) |
-| [Braid Design System](https://github.com/seek-oss/braid-design-system) | [Link](https://seek-oss.github.io/braid-design-system) |
-| [Carbon Components React](https://github.com/carbon-design-system/carbon/tree/main/packages/react) | [Link](https://react.carbondesignsystem.com) |
-| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Link](https://chakra-ui.com/getting-started) |
-| [Elastic UI](https://github.com/elastic/eui) | [Link](https://eui.elastic.co) |
-| [Evergreen](https://github.com/segmentio/evergreen) | [Link](https://evergreen.segment.com) |
-| [Fluent UI](https://github.com/microsoft/fluentui) | [Link](https://react.fluentui.dev) |
-| [Gestalt](https://github.com/pinterest/gestalt) | [Link](https://gestalt.pinterest.systems/home) |
-| [Grommet](https://github.com/grommet/grommet) | [Link](https://grommet.io) |
-| [Mantine UI](https://github.com/mantinedev/mantine)| [Link](https://mantine.dev) |
-| [Material-UI](https://github.com/mui/material-ui) | [Link](https://mui.com) |
-| [Material Tailwind](https://github.com/creativetimofficial/material-tailwind) | [Link](https://www.material-tailwind.com) |
-| [Meraki UI](https://github.com/merakiui/merakiui) | [Link](https://merakiui.com) |
-| [NextUI](https://github.com/nextui-org/nextui) | [Link](https://nextui.org) |
-| [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Link](https://onsen.io/react) |
-| [PatternFly](https://github.com/patternfly/patternfly-react) | [Link](https://park-ui.com/react/docs/overview/introduction) |
-| [Park UI](https://github.com/cschroeter/park-ui) | [Link](https://www.patternfly.org/get-started/develop#react) |
-| [Polaris](https://github.com/Shopify/polaris) | [Link](https://polaris.shopify.com) |
-| [PrimeReact](https://github.com/primefaces/primereact) | [Link](https://primereact.org/) |
-| [Headless UI](https://github.com/tailwindlabs/headlessui) | [Link](https://headlessui.com) |
-| [Radix UI](https://github.com/radix-ui/themes) | [Link](https://www.radix-ui.com/themes/docs/overview/getting-started) |
-| [Reactstrap](https://github.com/reactstrap/reactstrap) | [Link](https://reactstrap.github.io) |
-| [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | [Link](https://react-bootstrap.github.io) |
-| [React Kawaii](https://github.com/miukimiu/react-kawaii) | [Link](https://react-kawaii.now.sh) |
-| [React Suite](https://github.com/rsuite/rsuite) | [Link](https://rsuitejs.com) |
-| [Reakit](https://github.com/ariakit/ariakit) | [Link](https://ariakit.org) |
-| [React Spectrum](https://github.com/adobe/react-spectrum) | [Link](https://react-spectrum.adobe.com/react-spectrum/getting-started.html) |
-| [Ring UI](https://github.com/JetBrains/ring-ui) | [Link](https://jetbrains.github.io/ring-ui/master) |
-| [Semi Design](https://github.com/DouyinFE/semi-design) | [Link](https://semi.design/en-US/start/introduction) |
-| [shadcn/ui](https://github.com/shadcn/ui) | [Link](https://ui.shadcn.com/docs) |
-| [Zendesk Garden](https://github.com/zendeskgarden/react-components) | [Link](https://garden.zendesk.com) |
+## 🎯 **Legend**
+
+**Symbols Used:**
+- ✅ **Full Support** - Complete implementation with good documentation
+- ⚠️ **Partial Support** - Limited or experimental support
+- ❌ **No Support** - Feature not available or not applicable
+
+**Column Explanations:**
+- **TypeScript/Null Safety**: Type safety support for better development experience
+- **Themes**: Customizable theming system for brand consistency
+- **Mobile/Cross-Platform**: Responsive design or multi-platform support
+
+---
+
+## ⚛️ React & React Native
+
+### React UI Libraries & Design Systems
+
+| Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
+|---------|--------|---------------|------------|--------|--------|-------------|
+| [Material-UI (MUI)](https://github.com/mui/material-ui) | ![GitHub stars](https://img.shields.io/github/stars/mui/material-ui) | [Docs](https://mui.com) | ✅ | ✅ | ✅ | React components implementing Google's Material Design |
+| [Ant Design](https://github.com/ant-design/ant-design) | ![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design) | [Docs](https://ant.design) | ✅ | ✅ | ✅ | Enterprise-class UI design language |
+| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | ![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui) | [Docs](https://chakra-ui.com) | ✅ | ✅ | ✅ | Simple, modular and accessible components |
+| [Mantine](https://github.com/mantinedev/mantine) | ![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine) | [Docs](https://mantine.dev) | ✅ | ✅ | ✅ | Full-featured React components and hooks library |
+| [NextUI](https://github.com/nextui-org/nextui) | ![GitHub stars](https://img.shields.io/github/stars/nextui-org/nextui) | [Docs](https://nextui.org) | ✅ | ✅ | ✅ | Beautiful, fast and modern React UI library |
+| [shadcn/ui](https://github.com/shadcn-ui/ui) | ![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui) | [Docs](https://ui.shadcn.com) | ✅ | ✅ | ✅ | Copy-paste components built with Radix UI and Tailwind |
+| [Radix UI](https://github.com/radix-ui/primitives) | ![GitHub stars](https://img.shields.io/github/stars/radix-ui/primitives) | [Docs](https://www.radix-ui.com) | ✅ | ⚠️ | ✅ | Low-level UI primitives with accessibility |
+| [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | ![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap) | [Docs](https://react-bootstrap.github.io) | ✅ | ✅ | ✅ | Bootstrap components for React |
+| [Fluent UI](https://github.com/microsoft/fluentui) | ![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui) | [Docs](https://react.fluentui.dev) | ✅ | ✅ | ✅ | Microsoft's design system |
+| [Headless UI](https://github.com/tailwindlabs/headlessui) | ![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui) | [Docs](https://headlessui.com) | ✅ | ❌ | ✅ | Unstyled, accessible UI components |
+| [Arco Design](https://github.com/arco-design/arco-design) | ![GitHub stars](https://img.shields.io/github/stars/arco-design/arco-design) | [Docs](https://arco.design/react/en-US/docs/start) | ✅ | ✅ | ✅ | ByteDance's design system |
+| [Semi Design](https://github.com/DouyinFE/semi-design) | ![GitHub stars](https://img.shields.io/github/stars/DouyinFE/semi-design) | [Docs](https://semi.design/en-US) | ✅ | ✅ | ✅ | Modern React UI library from ByteDance |
+| [PrimeReact](https://github.com/primefaces/primereact) | ![GitHub stars](https://img.shields.io/github/stars/primefaces/primereact) | [Docs](https://primereact.org) | ✅ | ✅ | ✅ | Rich set of open source native components |
+| [React Suite](https://github.com/rsuite/rsuite) | ![GitHub stars](https://img.shields.io/github/stars/rsuite/rsuite) | [Docs](https://rsuitejs.com) | ✅ | ✅ | ✅ | Enterprise-oriented UI component library |
+| [Grommet](https://github.com/grommet/grommet) | ![GitHub stars](https://img.shields.io/github/stars/grommet/grommet) | [Docs](https://grommet.io) | ✅ | ✅ | ✅ | React-based framework with mobile-first approach |
+| [Blueprint](https://github.com/palantir/blueprint) | ![GitHub stars](https://img.shields.io/github/stars/palantir/blueprint) | [Docs](https://blueprintjs.com) | ✅ | ✅ | ⚠️ | React-based UI toolkit for the web |
+| [Evergreen](https://github.com/segmentio/evergreen) | ![GitHub stars](https://img.shields.io/github/stars/segmentio/evergreen) | [Docs](https://evergreen.segment.com) | ✅ | ✅ | ✅ | React UI Framework by Segment |
+| [Carbon Design System](https://github.com/carbon-design-system/carbon) | ![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon) | [Docs](https://react.carbondesignsystem.com) | ✅ | ✅ | ✅ | IBM's open source design system |
+| [Elastic UI](https://github.com/elastic/eui) | ![GitHub stars](https://img.shields.io/github/stars/elastic/eui) | [Docs](https://eui.elastic.co) | ✅ | ✅ | ✅ | Elastic's design system |
+| [Polaris](https://github.com/Shopify/polaris) | ![GitHub stars](https://img.shields.io/github/stars/Shopify/polaris) | [Docs](https://polaris.shopify.com) | ✅ | ✅ | ✅ | Shopify's design system |
 
 ### React Frameworks
 
-| Name | Documentation |
-| - | - |
-| [Next.js](https://github.com/vercel/next.js) | [Link](https://nextjs.org) |
-| [Remix](https://github.com/remix-run/remix) | [Link](https://remix.run) |
-| [refine](https://github.com/refinedev/refine) | [Link](https://refine.dev) |
+| Framework | GitHub | Documentation | Description |
+|-----------|--------|---------------|-------------|
+| [Next.js](https://github.com/vercel/next.js) | ![GitHub stars](https://img.shields.io/github/stars/vercel/next.js) | [Docs](https://nextjs.org) | Full-stack React framework |
+| [Remix](https://github.com/remix-run/remix) | ![GitHub stars](https://img.shields.io/github/stars/remix-run/remix) | [Docs](https://remix.run) | Full stack web framework |
+| [Refine](https://github.com/refinedev/refine) | ![GitHub stars](https://img.shields.io/github/stars/refinedev/refine) | [Docs](https://refine.dev) | React-based framework for CRUD applications |
 
-### React JS Toolkits
+### React Chart Libraries
 
-| Name | Documentation |  Tool Type |
-| - | - | - |
-| [Recharts](https://github.com/recharts/recharts) | [Link](https://recharts.org) | Chart |
-| [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) | [Link](https://react-chartjs-2.js.org) | Chart |
-| [VICTORY](https://github.com/FormidableLabs/victory) | [Link](https://formidable.com/open-source/victory) | Chart |
-| [Nivo](https://github.com/plouc/nivo) | [Link](https://nivo.rocks) | Chart |
-| [React-Vis](https://github.com/uber/react-vis) | [Link](https://uber.github.io/react-vis) | Chart |
-| [visx](https://github.com/airbnb/visx) | [Link](https://airbnb.io/visx/docs) | Chart |
-| [Echarts Apache](https://github.com/apache/echarts) | [Link](https://uber.github.io/react-vis) | Chart (Bare) |
-| [Echarts Apache React JS](https://github.com/hustcc/echarts-for-react) | [Link](https://git.hust.cc/echarts-for-react) | Chart |
+| Library | GitHub | Documentation | Type |
+|---------|--------|---------------|------|
+| [Recharts](https://github.com/recharts/recharts) | ![GitHub stars](https://img.shields.io/github/stars/recharts/recharts) | [Docs](https://recharts.org) | Composable charting library |
+| [Victory](https://github.com/FormidableLabs/victory) | ![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/victory) | [Docs](https://formidable.com/open-source/victory) | Modular charting components |
+| [Nivo](https://github.com/plouc/nivo) | ![GitHub stars](https://img.shields.io/github/stars/plouc/nivo) | [Docs](https://nivo.rocks) | Rich data visualizations |
+| [visx](https://github.com/airbnb/visx) | ![GitHub stars](https://img.shields.io/github/stars/airbnb/visx) | [Docs](https://airbnb.io/visx) | Low-level visualization components |
+| [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) | ![GitHub stars](https://img.shields.io/github/stars/reactchartjs/react-chartjs-2) | [Docs](https://react-chartjs-2.js.org) | Chart.js wrapper |
 
+---
 
-------------
+### React Native UI Libraries
 
-### React Native UI Kits
+| Library | GitHub | Documentation | TypeScript | Themes | Cross-Platform | Description |
+|---------|--------|---------------|------------|--------|--------------| -------------|
+| [NativeBase](https://github.com/GeekyAnts/nativebase) | ![GitHub stars](https://img.shields.io/github/stars/GeekyAnts/nativebase) | [Docs](https://nativebase.io) | ✅ | ✅ | ✅ | Universal components for React Native |
+| [React Native Elements](https://github.com/react-native-elements/react-native-elements) | ![GitHub stars](https://img.shields.io/github/stars/react-native-elements/react-native-elements) | [Docs](https://reactnativeelements.com) | ✅ | ✅ | ✅ | Cross-platform UI toolkit |
+| [React Native Paper](https://github.com/callstack/react-native-paper) | ![GitHub stars](https://img.shields.io/github/stars/callstack/react-native-paper) | [Docs](https://reactnativepaper.com) | ✅ | ✅ | ✅ | Material Design for React Native |
+| [Tamagui](https://github.com/tamagui/tamagui) | ![GitHub stars](https://img.shields.io/github/stars/tamagui/tamagui) | [Docs](https://tamagui.dev) | ✅ | ✅ | ✅ | Universal React design system |
+| [Gluestack UI](https://github.com/gluestack/gluestack-ui) | ![GitHub stars](https://img.shields.io/github/stars/gluestack/gluestack-ui) | [Docs](https://ui.gluestack.io) | ✅ | ✅ | ✅ | Universal headless components |
+| [NativeWind](https://github.com/marklawlor/nativewind) | ![GitHub stars](https://img.shields.io/github/stars/marklawlor/nativewind) | [Docs](https://www.nativewind.dev) | ✅ | ✅ | ✅ | Tailwind CSS for React Native |
+| [UI Kitten](https://github.com/akveo/react-native-ui-kitten) | ![GitHub stars](https://img.shields.io/github/stars/akveo/react-native-ui-kitten) | [Docs](https://akveo.github.io/react-native-ui-kitten) | ✅ | ✅ | ✅ | Eva Design System |
+| [Shoutem UI](https://github.com/shoutem/ui) | ![GitHub stars](https://img.shields.io/github/stars/shoutem/ui) | [Docs](https://shoutem.github.io/docs/ui-toolkit/introduction) | ⚠️ | ✅ | ✅ | Customizable set of components |
 
-| Name | Documentation |
-| - | - |
-| [Dripsy](https://github.com/nandorojo/dripsy) | [Link](https://www.dripsy.xyz) |
-| [React Native Paper](https://github.com/callstack/react-native-paper) | [Link](https://reactnativepaper.com) |
-| [React Native UI Lib](https://github.com/wix/react-native-ui-lib) | [Link](https://github.com/wix/react-native-ui-lib) |
-| [React Native Elements](https://github.com/react-native-elements/react-native-elements) | [Link](https://reactnativeelements.com/) |
-| [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten) | [Link](https://akveo.github.io/react-native-ui-kitten) |
-| [NativeBase](https://github.com/GeekyAnts/nativebase) | [Link](https://nativebase.io) |
-| [FluentUI React Native](https://github.com/microsoft/fluentui-react-native) | [Link](https://developer.microsoft.com/fluentui) |
-| [Tamagui](https://github.com/tamagui/tamagui) | [Link](https://tamagui.dev) |
-| [NativeWind](https://github.com/marklawlor/nativewind) | [Link](https://www.nativewind.dev/) |
-| [Gluestack UI](https://github.com/gluestack/gluestack-ui) | [Link](https://ui.gluestack.io) |
-| [React Native Kawaii](https://github.com/miukimiu/react-kawaii) | [Link](https://react-kawaii.vercel.app) | SVG |
+### React Native Tools & Utilities
 
+| Tool | GitHub | Documentation | Category |
+|------|--------|---------------|----------|
+| [Expo](https://github.com/expo/expo) | ![GitHub stars](https://img.shields.io/github/stars/expo/expo) | [Docs](https://docs.expo.dev) | Development platform |
+| [React Native Navigation](https://github.com/wix/react-native-navigation) | ![GitHub stars](https://img.shields.io/github/stars/wix/react-native-navigation) | [Docs](https://wix.github.io/react-native-navigation) | Native navigation |
+| [React Native Maps](https://github.com/react-native-maps/react-native-maps) | ![GitHub stars](https://img.shields.io/github/stars/react-native-maps/react-native-maps) | [Docs](https://github.com/react-native-maps/react-native-maps) | Map components |
 
-### React Native Frameworks
+---
 
-| Name | Documentation |
-| - | - |
-| [Expo](https://github.com/expo/expo) | [Link](https://docs.expo.dev) |
+## 💚 Vue.js
 
+### Vue UI Libraries
 
-### React Native Toolkits
+| Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
+|---------|--------|---------------|------------|--------|--------|-------------|
+| [Element Plus](https://github.com/element-plus/element-plus) | ![GitHub stars](https://img.shields.io/github/stars/element-plus/element-plus) | [Docs](https://element-plus.org) | ✅ | ✅ | ✅ | Vue 3 UI library |
+| [Vuetify](https://github.com/vuetifyjs/vuetify) | ![GitHub stars](https://img.shields.io/github/stars/vuetifyjs/vuetify) | [Docs](https://vuetifyjs.com) | ✅ | ✅ | ✅ | Material Design Framework |
+| [Ant Design Vue](https://github.com/vueComponent/ant-design-vue) | ![GitHub stars](https://img.shields.io/github/stars/vueComponent/ant-design-vue) | [Docs](https://antdv.com) | ✅ | ✅ | ✅ | Ant Design for Vue |
+| [Quasar Framework](https://github.com/quasarframework/quasar) | ![GitHub stars](https://img.shields.io/github/stars/quasarframework/quasar) | [Docs](https://quasar.dev) | ✅ | ✅ | ✅ | Vue.js based framework |
+| [Arco Design Vue](https://github.com/arco-design/arco-design-vue) | ![GitHub stars](https://img.shields.io/github/stars/arco-design/arco-design-vue) | [Docs](https://arco.design/vue/en-US) | ✅ | ✅ | ✅ | ByteDance's Vue design system |
+| [Naive UI](https://github.com/tusen-ai/naive-ui) | ![GitHub stars](https://img.shields.io/github/stars/tusen-ai/naive-ui) | [Docs](https://www.naiveui.com) | ✅ | ✅ | ✅ | Vue 3 component library |
+| [PrimeVue](https://github.com/primefaces/primevue) | ![GitHub stars](https://img.shields.io/github/stars/primefaces/primevue) | [Docs](https://primevue.org) | ✅ | ✅ | ✅ | Rich set of open source components |
+| [Vant](https://github.com/youzan/vant) | ![GitHub stars](https://img.shields.io/github/stars/youzan/vant) | [Docs](https://vant-ui.github.io/vant) | ✅ | ✅ | ✅ | Mobile UI Components |
+| [View UI](https://github.com/view-design/ViewUI) | ![GitHub stars](https://img.shields.io/github/stars/view-design/ViewUI) | [Docs](https://www.iviewui.com) | ✅ | ✅ | ✅ | High quality UI Toolkit |
+| [Vue Material](https://github.com/vuematerial/vue-material) | ![GitHub stars](https://img.shields.io/github/stars/vuematerial/vue-material) | [Docs](https://vuematerial.io) | ⚠️ | ✅ | ✅ | Material Design for Vue.js |
 
-| Name | Documentation |  Tool Type |
-| - | - | - |
-| [React Native Navigation](https://github.com/wix/react-native-navigation) | [Link](https://wix.github.io/react-native-navigation) | Navigation |
-| [React Native Map](https://github.com/react-native-maps/react-native-maps) | [Link](https://github.com/react-native-maps/react-native-maps/tree/master/docs) | Maps |
-| [React Native Network](https://github.com/react-native-netinfo/react-native-netinfo) | Link | Network |
-| [React Native Wifi Connection](https://github.com/JuanSeBestia/react-native-wifi-reborn) | Link | Network |
+### Vue Frameworks
 
+| Framework | GitHub | Documentation | Description |
+|-----------|--------|---------------|-------------|
+| [Nuxt.js](https://github.com/nuxt/nuxt) | ![GitHub stars](https://img.shields.io/github/stars/nuxt/nuxt) | [Docs](https://nuxt.com) | Vue.js meta-framework |
+| [VuePress](https://github.com/vuejs/vuepress) | ![GitHub stars](https://img.shields.io/github/stars/vuejs/vuepress) | [Docs](https://vuepress.vuejs.org) | Static site generator |
+| [Gridsome](https://github.com/gridsome/gridsome) | ![GitHub stars](https://img.shields.io/github/stars/gridsome/gridsome) | [Docs](https://gridsome.org) | JAMstack framework |
 
--------------------------
+---
 
-# Vue JS UI
-I collected the best [VueJS](https://vuejs.org) ui kits, frameworks and tools for you.  
+## 📱 Flutter
 
-### Vue JS UI Kits
-| Name | Documentation |
-| - | - |
-| [Arco Design](https://github.com/arco-design/arco-design-vue) | [Link](https://arco.design/vue/en-US/docs/start) |
-| [Preline UI](https://github.com/htmlstreamofficial/preline) | [Link](https://preline.co/index.html) |
-| [Tailwind UI Kit](https://github.com/Charlie85270/tail-kit) | [Link](https://www.tailwind-kit.com) |
-| [VueTailwind](https://github.com/alfonsobries/vue-tailwind) | [Link](https://www.vue-tailwind.com) |
-| [Mamba UI](https://github.com/Microwawe/mamba-ui) | [Link](https://mambaui.com) |
-| [Kometa UI Kit](https://kitwind.io/products/kometa) | [Link](https://kitwind.io/products/kometa) |
-| [Flowbite](https://github.com/themesberg/flowbite) | [Link](https://flowbite.com/docs/getting-started/quickstart) |
-| [Vant](https://github.com/youzan/vant) | [Link](https://vant-ui.github.io/vant/#/en-US) |
+### Flutter UI Libraries
 
-### Vue JS Frameworks
+| Library | GitHub | Documentation | Null Safety | Themes | Platform Support | Description |
+|---------|--------|---------------|-------------|--------|------------------|-------------|
+| [Material Components](https://docs.flutter.dev/ui/widgets/material) | - | [Docs](https://api.flutter.dev/flutter/material/material-library.html) | ✅ | ✅ | All | Google's Material Design |
+| [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) | ![GitHub stars](https://img.shields.io/github/stars/Tencent/tdesign-flutter) | [Docs](https://tdesign.tencent.com/flutter) | ✅ | ✅ | All | Tencent's design system |
+| [Flutter Screenutil](https://github.com/OpenFlutter/flutter_screenutil) | ![GitHub stars](https://img.shields.io/github/stars/OpenFlutter/flutter_screenutil) | [Docs](https://github.com/OpenFlutter/flutter_screenutil) | ✅ | ❌ | All | Screen adaptation solution |
+| [GetWidget](https://github.com/ionicfirebaseapp/getwidget) | ![GitHub stars](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget) | [Docs](https://docs.getwidget.dev) | ✅ | ✅ | All | Open source UI library |
+| [Bruno](https://github.com/LianjiaTech/bruno) | ![GitHub stars](https://img.shields.io/github/stars/LianjiaTech/bruno) | [Docs](https://bruno.ke.com) | ✅ | ✅ | All | Enterprise-class mobile UI |
+| [Flutter ShadcnUI](https://github.com/nank1ro/flutter-shadcn-ui) | ![GitHub stars](https://img.shields.io/github/stars/nank1ro/flutter-shadcn-ui) | [Docs](https://mariuti.com/shadcn-ui) | ✅ | ✅ | All | Flutter port of shadcn/ui |
+| [Gluestack UI Flutter](https://github.com/gluestack/gluestack-ui-flutter) | ![GitHub stars](https://img.shields.io/github/stars/gluestack/gluestack-ui-flutter) | [Docs](https://flutter.gluestack.io) | ✅ | ✅ | All | Universal headless components |
 
-| Name | Documentation |
-| - | - |
-| [Bootstrap Vue](https://github.com/bootstrap-vue/bootstrap-vue) | [Link](https://bootstrap-vue.org) |
-| [VuetifyJs](https://github.com/vuetifyjs/vuetify) | [Link](https://vuetifyjs.com/en) |
-| [Quasar Framework]( https://github.com/quasarframework/quasar) | [Link](https://quasar.dev) |
+### Flutter State Management
 
+| Library | GitHub | Documentation | Description |
+|---------|--------|---------------|-------------|
+| [Provider](https://github.com/rrousselGit/provider) | ![GitHub stars](https://img.shields.io/github/stars/rrousselGit/provider) | [Docs](https://pub.dev/packages/provider) | Dependency injection & state management |
+| [Riverpod](https://github.com/rrousselGit/riverpod) | ![GitHub stars](https://img.shields.io/github/stars/rrousselGit/riverpod) | [Docs](https://riverpod.dev) | Provider's successor |
+| [BLoC](https://github.com/felangel/bloc) | ![GitHub stars](https://img.shields.io/github/stars/felangel/bloc) | [Docs](https://bloclibrary.dev) | Business Logic Component |
+| [GetX](https://github.com/jonataslaw/getx) | ![GitHub stars](https://img.shields.io/github/stars/jonataslaw/getx) | [Docs](https://github.com/jonataslaw/getx) | State management & navigation |
 
--------------------------
+---
 
-# Flutter UI
-I collected the best [Flutter](https://flutter.dev/) ui kits, frameworks and tools for you. 
+## 🤝 Contributing
 
+Found a great UI library that's missing from this list? Have a suggestion for improvement? 
 
-### Flutter UI Kits-Components
-| Name | Documentation |
-| - | - |
-| [Material UI]( https://docs.flutter.dev/ui/widgets/material) | [Link](https://api.flutter.dev/flutter/material/material-library.html) |
-| [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) | [Link](https://tdesign.tencent.com/flutter) |
-| [Bruno](https://github.com/LianjiaTech/bruno) | [Link](https://bruno.ke.com/) |
-| [Flutter ShadcnUI](https://github.com/nank1ro/flutter-shadcn-ui) | [Link](https://mariuti.com/shadcn-ui/) |
-| [gluestack-ui-flutter](https://github.com/gluestack/gluestack-ui-flutter) | [Link](https://flutter.gluestack.io/docs/overview/introduction) |
+1. **Fork** this repository
+2. **Create** a new branch for your changes
+3. **Add** the library with the same format as existing entries
+4. **Submit** a pull request
+
+### Guidelines for Contributing
+
+- ✅ **Verify links** - Make sure all documentation links work
+- ⭐ **Check popularity** - Library should have reasonable GitHub stars/community
+- 📝 **Follow format** - Use the same table structure as existing entries
+- 🔍 **No duplicates** - Check if the library is already listed
+- 🚀 **Active maintenance** - Prefer actively maintained projects
+
+---
+
+## 📊 Statistics
+
+- **React Libraries**: 20+ UI libraries and design systems
+- **Vue Libraries**: 10+ comprehensive UI frameworks  
+- **Flutter Libraries**: 7+ mobile-first UI toolkits
+- **Total Frameworks**: 10+ meta-frameworks and build tools
+
+---
+
+## 📄 License
+
+This collection is open source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+  <p>⭐ <strong>Star this repository if you found it helpful!</strong> ⭐</p>
+  <p>Made with ❤️ by the open source community</p>
+</div>
