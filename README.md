@@ -48,6 +48,9 @@
 | [Carbon Design System](https://github.com/carbon-design-system/carbon) | ![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon) | [Docs](https://react.carbondesignsystem.com) | ✅ | ✅ | ✅ | IBM's open source design system |
 | [Elastic UI](https://github.com/elastic/eui) | ![GitHub stars](https://img.shields.io/github/stars/elastic/eui) | [Docs](https://eui.elastic.co) | ✅ | ✅ | ✅ | Elastic's design system |
 | [Polaris](https://github.com/Shopify/polaris) | ![GitHub stars](https://img.shields.io/github/stars/Shopify/polaris) | [Docs](https://polaris.shopify.com) | ✅ | ✅ | ✅ | Shopify's design system |
+| [Magic UI](https://github.com/magicuidesign/magicui) | ![GitHub stars](https://img.shields.io/github/stars/magicuidesign/magicui) | [Docs](https://magicui.design/docs) | ✅ | ✅ | ✅ | Copy & paste components and templates for React |
+| [Kibo UI](https://github.com/haydenbleasel/kibo) | ![GitHub stars](https://img.shields.io/github/stars/haydenbleasel/kibo) | [Docs](https://www.kibo-ui.com) | ✅ | ✅ | ✅ | Modern React component library |
+| [Origin UI](https://github.com/origin-space/originui) | ![GitHub stars](https://img.shields.io/github/stars/origin-space/originui) | [Docs](https://originui.com) | ✅ | ✅ | ✅ | Beautiful UI components built with Tailwind CSS |
 
 ### React Frameworks
 
@@ -165,7 +168,7 @@ Found a great UI library that's missing from this list? Have a suggestion for im
 
 ## 📊 Statistics
 
-- **React Libraries**: 20+ UI libraries and design systems
+- **React Libraries**: 23+ UI libraries and design systems
 - **Vue Libraries**: 10+ comprehensive UI frameworks  
 - **Flutter Libraries**: 7+ mobile-first UI toolkits
 - **Total Frameworks**: 10+ meta-frameworks and build tools
