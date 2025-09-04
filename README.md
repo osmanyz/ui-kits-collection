@@ -51,6 +51,11 @@
 | [Magic UI](https://github.com/magicuidesign/magicui) | ![GitHub stars](https://img.shields.io/github/stars/magicuidesign/magicui) | [Docs](https://magicui.design/docs) | ✅ | ✅ | ✅ | Copy & paste components and templates for React |
 | [Kibo UI](https://github.com/haydenbleasel/kibo) | ![GitHub stars](https://img.shields.io/github/stars/haydenbleasel/kibo) | [Docs](https://www.kibo-ui.com) | ✅ | ✅ | ✅ | Modern React component library |
 | [Origin UI](https://github.com/origin-space/originui) | ![GitHub stars](https://img.shields.io/github/stars/origin-space/originui) | [Docs](https://originui.com) | ✅ | ✅ | ✅ | Beautiful UI components built with Tailwind CSS |
+| [ReUI](https://github.com/keenthemes/reui) | ![GitHub stars](https://img.shields.io/github/stars/keenthemes/reui) | [Docs](https://reui.io) | ✅ | ✅ | ✅ | Modern React component library by KeenThemes |
+| [Pattern Craft](https://github.com/megh-bari/pattern-craft) | ![GitHub stars](https://img.shields.io/github/stars/megh-bari/pattern-craft) | [Docs](https://patterncraft.fun) | ✅ | ✅ | ✅ | Beautiful pattern components and backgrounds |
+| [Cult UI](https://github.com/nolly-studio/cult-ui) | ![GitHub stars](https://img.shields.io/github/stars/nolly-studio/cult-ui) | [Docs](https://www.cult-ui.com) | ✅ | ✅ | ✅ | React component library with modern design |
+| [Kokonut UI](https://github.com/kokonut-labs/kokonutui) | ![GitHub stars](https://img.shields.io/github/stars/kokonut-labs/kokonutui) | [Docs](https://smoothui.dev) | ✅ | ✅ | ✅ | Smooth and modern React components |
+| [Motion Primitives](https://github.com/ibelick/motion-primitives) | ![GitHub stars](https://img.shields.io/github/stars/ibelick/motion-primitives) | [Docs](https://motion-primitives.com) | ✅ | ✅ | ✅ | Beautiful motion components for React |
 
 ### React Frameworks
 
