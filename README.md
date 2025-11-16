@@ -48,6 +48,11 @@
 | [Carbon Design System](https://github.com/carbon-design-system/carbon) | ![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon) | [Docs](https://react.carbondesignsystem.com) | ✅ | ✅ | ✅ | IBM's open source design system |
 | [Elastic UI](https://github.com/elastic/eui) | ![GitHub stars](https://img.shields.io/github/stars/elastic/eui) | [Docs](https://eui.elastic.co) | ✅ | ✅ | ✅ | Elastic's design system |
 | [Polaris](https://github.com/Shopify/polaris) | ![GitHub stars](https://img.shields.io/github/stars/Shopify/polaris) | [Docs](https://polaris.shopify.com) | ✅ | ✅ | ✅ | Shopify's design system |
+| [HeroUI](https://github.com/heroui-inc/heroui) | ![GitHub stars](https://img.shields.io/github/stars/heroui-inc/heroui) | [Docs](https://www.heroui.com) | ✅ | ✅ | ✅ | Beautiful, fast and modern React UI library (Previously NextUI) |
+| [Coss UI](https://github.com/cosscom/coss) | ![GitHub stars](https://img.shields.io/github/stars/cosscom/coss) | [Docs](https://coss.com/ui/docs) | ✅ | ✅ | ✅ | Modern component library built on Base UI and Tailwind CSS |
+| [BaseCN](https://github.com/akash3444/basecn) | ![GitHub stars](https://img.shields.io/github/stars/akash3444/basecn) | [Docs](https://basecn.dev) | ✅ | ✅ | ✅ | shadcn/ui components powered by Base UI |
+| [HextaUI](https://github.com/preetsuthar17/HextaUI) | ![GitHub stars](https://img.shields.io/github/stars/preetsuthar17/HextaUI) | [Docs](https://www.hextaui.com) | ✅ | ✅ | ✅ | Modern, responsive components built on shadcn/ui |
+| [Tailark](https://github.com/tailark/blocks) | ![GitHub stars](https://img.shields.io/github/stars/tailark/blocks) | [Docs](https://tailark.com) | ✅ | ✅ | ✅ | Marketing UI blocks and templates for shadcn/ui |
 | [Magic UI](https://github.com/magicuidesign/magicui) | ![GitHub stars](https://img.shields.io/github/stars/magicuidesign/magicui) | [Docs](https://magicui.design/docs) | ✅ | ✅ | ✅ | Copy & paste components and templates for React |
 | [Kibo UI](https://github.com/haydenbleasel/kibo) | ![GitHub stars](https://img.shields.io/github/stars/haydenbleasel/kibo) | [Docs](https://www.kibo-ui.com) | ✅ | ✅ | ✅ | Modern React component library |
 | [Origin UI](https://github.com/origin-space/originui) | ![GitHub stars](https://img.shields.io/github/stars/origin-space/originui) | [Docs](https://originui.com) | ✅ | ✅ | ✅ | Beautiful UI components built with Tailwind CSS |
@@ -56,6 +61,30 @@
 | [Cult UI](https://github.com/nolly-studio/cult-ui) | ![GitHub stars](https://img.shields.io/github/stars/nolly-studio/cult-ui) | [Docs](https://www.cult-ui.com) | ✅ | ✅ | ✅ | React component library with modern design |
 | [Kokonut UI](https://github.com/kokonut-labs/kokonutui) | ![GitHub stars](https://img.shields.io/github/stars/kokonut-labs/kokonutui) | [Docs](https://smoothui.dev) | ✅ | ✅ | ✅ | Smooth and modern React components |
 | [Motion Primitives](https://github.com/ibelick/motion-primitives) | ![GitHub stars](https://img.shields.io/github/stars/ibelick/motion-primitives) | [Docs](https://motion-primitives.com) | ✅ | ✅ | ✅ | Beautiful motion components for React |
+
+### React Animation & Motion Libraries
+
+| Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
+|---------|--------|---------------|------------|--------|--------|-------------|
+| [Aceternity UI](https://github.com/aceternity/ui) | - | [Docs](https://ui.aceternity.com) | ✅ | ✅ | ✅ | Beautiful Tailwind CSS and Framer Motion components |
+| [Animate UI](https://github.com/imskyleen/animate-ui) | ![GitHub stars](https://img.shields.io/github/stars/imskyleen/animate-ui) | [Docs](https://animate-ui.com) | ✅ | ✅ | ✅ | Fully animated components with React, Tailwind, and Motion |
+| [PaceUI](https://github.com/paceui/ui) | ![GitHub stars](https://img.shields.io/github/stars/paceui/ui) | [Docs](https://ui.paceui.com) | ✅ | ✅ | ✅ | GSAP-powered animated components for React |
+| [React Bits](https://github.com/DavidHDev/react-bits) | ![GitHub stars](https://img.shields.io/github/stars/DavidHDev/react-bits) | [Docs](https://reactbits.dev) | ✅ | ✅ | ✅ | Animated, interactive & customizable React components |
+| [Motion](https://github.com/motiondivision/motion) | ![GitHub stars](https://img.shields.io/github/stars/motiondivision/motion) | [Docs](https://motion.dev) | ✅ | ✅ | ✅ | Modern animation library for React, JS and Vue (formerly Framer Motion) |
+| [Hover.dev](https://github.com/hover-labs/components) | - | [Docs](https://www.hover.dev) | ✅ | ✅ | ✅ | Animated UI components for React and Tailwind CSS |
+
+### React Specialty Components
+
+| Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
+|---------|--------|---------------|------------|--------|--------|-------------|
+| [8bitcn/ui](https://github.com/TheOrcDev/8bitcn-ui) | ![GitHub stars](https://img.shields.io/github/stars/TheOrcDev/8bitcn-ui) | [Docs](https://8bitcn.com) | ✅ | ✅ | ✅ | Retro 8-bit styled UI components for React |
+| [BG.ibelick](https://github.com/ibelick/background-snippets) | ![GitHub stars](https://img.shields.io/github/stars/ibelick/background-snippets) | [Docs](https://bg.ibelick.com) | ✅ | ✅ | ✅ | Modern background snippets with Tailwind CSS |
+
+### Framework-Agnostic UI Components
+
+| Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
+|---------|--------|---------------|------------|--------|--------|-------------|
+| [Shoelace](https://github.com/shoelace-style/shoelace) | ![GitHub stars](https://img.shields.io/github/stars/shoelace-style/shoelace) | [Docs](https://shoelace.style) | ✅ | ✅ | ✅ | Framework-agnostic web components library |
 
 ### React Frameworks
 
@@ -173,7 +202,7 @@ Found a great UI library that's missing from this list? Have a suggestion for im
 
 ## 📊 Statistics
 
-- **React Libraries**: 28+ UI libraries and design systems
+- **React Libraries**: 40+ UI libraries, design systems, and animation libraries
 - **Vue Libraries**: 10+ comprehensive UI frameworks  
 - **Flutter Libraries**: 7+ mobile-first UI toolkits
 - **Total Frameworks**: 10+ meta-frameworks and build tools
