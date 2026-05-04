@@ -61,6 +61,11 @@
 | [Cult UI](https://github.com/nolly-studio/cult-ui) | ![GitHub stars](https://img.shields.io/github/stars/nolly-studio/cult-ui) | [Docs](https://www.cult-ui.com) | ✅ | ✅ | ✅ | React component library with modern design |
 | [Kokonut UI](https://github.com/kokonut-labs/kokonutui) | ![GitHub stars](https://img.shields.io/github/stars/kokonut-labs/kokonutui) | [Docs](https://smoothui.dev) | ✅ | ✅ | ✅ | Smooth and modern React components |
 | [Motion Primitives](https://github.com/ibelick/motion-primitives) | ![GitHub stars](https://img.shields.io/github/stars/ibelick/motion-primitives) | [Docs](https://motion-primitives.com) | ✅ | ✅ | ✅ | Beautiful motion components for React |
+| [Skiper UI](https://github.com/SkiperUI/skiper-ui) | ![GitHub stars](https://img.shields.io/github/stars/SkiperUI/skiper-ui) | [Docs](https://skiper-ui.com) | ✅ | ✅ | ✅ | Copy-paste animated components built with Tailwind CSS and Framer Motion |
+| [Unlumen UI](https://github.com/unlumen/ui) | ![GitHub stars](https://img.shields.io/github/stars/unlumen/ui) | [Docs](https://ui.unlumen.com) | ✅ | ✅ | ✅ | Modern React UI system with clean design and composable components |
+| [Watermelon UI](https://github.com/watermelon-ui/ui) | ![GitHub stars](https://img.shields.io/github/stars/watermelon-ui/ui) | [Docs](https://ui.watermelon.sh) | ✅ | ✅ | ✅ | High-quality React components and dashboards with modern UI patterns |
+| [Ali Imam UI](https://github.com/aliimamdev/ui) | ![GitHub stars](https://img.shields.io/github/stars/aliimamdev/ui) | [Docs](https://aliimam.in) | ✅ | ✅ | ✅ | Collection of modern UI components, blocks, and templates for React |
+| [Componentry](https://github.com/componentry/componentry) | ![GitHub stars](https://img.shields.io/github/stars/componentry/componentry) | [Docs](https://www.componentry.fun) | ✅ | ⚠️ | ✅ | Curated collection of reusable UI components and patterns |
 
 ### React Animation & Motion Libraries
 
