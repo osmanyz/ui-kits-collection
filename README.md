@@ -28,12 +28,12 @@
 
 | Library | GitHub | Documentation | TypeScript | Themes | Mobile | Description |
 |---------|--------|---------------|------------|--------|--------|-------------|
+| [shadcn/ui](https://github.com/shadcn-ui/ui) | ![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui) | [Docs](https://ui.shadcn.com) | ✅ | ✅ | ✅ | Copy-paste components built with Radix UI and Tailwind |
 | [Material-UI (MUI)](https://github.com/mui/material-ui) | ![GitHub stars](https://img.shields.io/github/stars/mui/material-ui) | [Docs](https://mui.com) | ✅ | ✅ | ✅ | React components implementing Google's Material Design |
 | [Ant Design](https://github.com/ant-design/ant-design) | ![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design) | [Docs](https://ant.design) | ✅ | ✅ | ✅ | Enterprise-class UI design language |
 | [Chakra UI](https://github.com/chakra-ui/chakra-ui) | ![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui) | [Docs](https://chakra-ui.com) | ✅ | ✅ | ✅ | Simple, modular and accessible components |
 | [Mantine](https://github.com/mantinedev/mantine) | ![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine) | [Docs](https://mantine.dev) | ✅ | ✅ | ✅ | Full-featured React components and hooks library |
 | [NextUI](https://github.com/nextui-org/nextui) | ![GitHub stars](https://img.shields.io/github/stars/nextui-org/nextui) | [Docs](https://nextui.org) | ✅ | ✅ | ✅ | Beautiful, fast and modern React UI library |
-| [shadcn/ui](https://github.com/shadcn-ui/ui) | ![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui) | [Docs](https://ui.shadcn.com) | ✅ | ✅ | ✅ | Copy-paste components built with Radix UI and Tailwind |
 | [Radix UI](https://github.com/radix-ui/primitives) | ![GitHub stars](https://img.shields.io/github/stars/radix-ui/primitives) | [Docs](https://www.radix-ui.com) | ✅ | ⚠️ | ✅ | Low-level UI primitives with accessibility |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | ![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap) | [Docs](https://react-bootstrap.github.io) | ✅ | ✅ | ✅ | Bootstrap components for React |
 | [Fluent UI](https://github.com/microsoft/fluentui) | ![GitHub stars](https://img.shields.io/github/stars/microsoft/fluentui) | [Docs](https://react.fluentui.dev) | ✅ | ✅ | ✅ | Microsoft's design system |
@@ -122,6 +122,7 @@
 | [Gluestack UI](https://github.com/gluestack/gluestack-ui) | ![GitHub stars](https://img.shields.io/github/stars/gluestack/gluestack-ui) | [Docs](https://ui.gluestack.io) | ✅ | ✅ | ✅ | Universal headless components |
 | [NativeWind](https://github.com/marklawlor/nativewind) | ![GitHub stars](https://img.shields.io/github/stars/marklawlor/nativewind) | [Docs](https://www.nativewind.dev) | ✅ | ✅ | ✅ | Tailwind CSS for React Native |
 | [UI Kitten](https://github.com/akveo/react-native-ui-kitten) | ![GitHub stars](https://img.shields.io/github/stars/akveo/react-native-ui-kitten) | [Docs](https://akveo.github.io/react-native-ui-kitten) | ✅ | ✅ | ✅ | Eva Design System |
+| [HeroUI Native](https://github.com/heroui-inc/heroui-native) | ![GitHub stars](https://img.shields.io/github/stars/heroui-inc/heroui-native) | [Docs](https://heroui.com/en/docs/native/getting-started) | ✅ | ✅ | ✅ | Modern React Native UI library from the HeroUI ecosystem |
 | [Shoutem UI](https://github.com/shoutem/ui) | ![GitHub stars](https://img.shields.io/github/stars/shoutem/ui) | [Docs](https://shoutem.github.io/docs/ui-toolkit/introduction) | ⚠️ | ✅ | ✅ | Customizable set of components |
 
 ### React Native Tools & Utilities
@@ -168,7 +169,6 @@
 | Library | GitHub | Documentation | Null Safety | Themes | Platform Support | Description |
 |---------|--------|---------------|-------------|--------|------------------|-------------|
 | [Material Components](https://docs.flutter.dev/ui/widgets/material) | - | [Docs](https://api.flutter.dev/flutter/material/material-library.html) | ✅ | ✅ | All | Google's Material Design |
-| [shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter) | ![GitHub stars](https://img.shields.io/github/stars/sunarya-thito/shadcn_flutter) | [Docs](https://sunarya-thito.github.io/shadcn_flutter) | ✅ | ✅ | All | Open source UI library |
 | [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) | ![GitHub stars](https://img.shields.io/github/stars/Tencent/tdesign-flutter) | [Docs](https://tdesign.tencent.com/flutter) | ✅ | ✅ | All | Tencent's design system |
 | [Flutter Screenutil](https://github.com/OpenFlutter/flutter_screenutil) | ![GitHub stars](https://img.shields.io/github/stars/OpenFlutter/flutter_screenutil) | [Docs](https://github.com/OpenFlutter/flutter_screenutil) | ✅ | ❌ | All | Screen adaptation solution |
 | [GetWidget](https://github.com/ionicfirebaseapp/getwidget) | ![GitHub stars](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget) | [Docs](https://docs.getwidget.dev) | ✅ | ✅ | All | Open source UI library |
@@ -210,7 +210,8 @@ Found a great UI library that's missing from this list? Have a suggestion for im
 
 - **React Libraries**: 40+ UI libraries, design systems, and animation libraries
 - **Vue Libraries**: 10+ comprehensive UI frameworks  
-- **Flutter Libraries**: 7+ mobile-first UI toolkits
+- **Flutter Libraries**: 8+ mobile-first UI toolkits
+- **React Native Libraries**: 9+ UI libraries and design systems
 - **Total Frameworks**: 10+ meta-frameworks and build tools
 
 ---
