@@ -168,6 +168,7 @@
 | Library | GitHub | Documentation | Null Safety | Themes | Platform Support | Description |
 |---------|--------|---------------|-------------|--------|------------------|-------------|
 | [Material Components](https://docs.flutter.dev/ui/widgets/material) | - | [Docs](https://api.flutter.dev/flutter/material/material-library.html) | ✅ | ✅ | All | Google's Material Design |
+| [shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter) | ![GitHub stars](https://img.shields.io/github/stars/sunarya-thito/shadcn_flutter) | [Docs](https://sunarya-thito.github.io/shadcn_flutter) | ✅ | ✅ | All | Open source UI library |
 | [TDesign Flutter](https://github.com/Tencent/tdesign-flutter) | ![GitHub stars](https://img.shields.io/github/stars/Tencent/tdesign-flutter) | [Docs](https://tdesign.tencent.com/flutter) | ✅ | ✅ | All | Tencent's design system |
 | [Flutter Screenutil](https://github.com/OpenFlutter/flutter_screenutil) | ![GitHub stars](https://img.shields.io/github/stars/OpenFlutter/flutter_screenutil) | [Docs](https://github.com/OpenFlutter/flutter_screenutil) | ✅ | ❌ | All | Screen adaptation solution |
 | [GetWidget](https://github.com/ionicfirebaseapp/getwidget) | ![GitHub stars](https://img.shields.io/github/stars/ionicfirebaseapp/getwidget) | [Docs](https://docs.getwidget.dev) | ✅ | ✅ | All | Open source UI library |
