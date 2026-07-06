@@ -66,6 +66,7 @@
 | [Watermelon UI](https://github.com/watermelon-ui/ui) | ![GitHub stars](https://img.shields.io/github/stars/watermelon-ui/ui) | [Docs](https://ui.watermelon.sh) | ✅ | ✅ | ✅ | High-quality React components and dashboards with modern UI patterns |
 | [Ali Imam UI](https://github.com/aliimamdev/ui) | ![GitHub stars](https://img.shields.io/github/stars/aliimamdev/ui) | [Docs](https://aliimam.in) | ✅ | ✅ | ✅ | Collection of modern UI components, blocks, and templates for React |
 | [Componentry](https://github.com/componentry/componentry) | ![GitHub stars](https://img.shields.io/github/stars/componentry/componentry) | [Docs](https://www.componentry.fun) | ✅ | ⚠️ | ✅ | Curated collection of reusable UI components and patterns |
+| [UIAble](https://github.com/codedthemes/uiable) | ![GitHub stars](https://img.shields.io/github/stars/codedthemes/uiable) | [Docs](https://uiable.com/doc/installation) | ✅ | ✅ | ⚠️ | UIAble is a component library built with Tailwind CSS, Shadcn-style architecture, and Base UI principles. |
 
 ### React Animation & Motion Libraries
 
