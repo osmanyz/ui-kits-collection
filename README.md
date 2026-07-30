@@ -78,6 +78,7 @@
 | [React Bits](https://github.com/DavidHDev/react-bits) | ![GitHub stars](https://img.shields.io/github/stars/DavidHDev/react-bits) | [Docs](https://reactbits.dev) | ✅ | ✅ | ✅ | Animated, interactive & customizable React components |
 | [Motion](https://github.com/motiondivision/motion) | ![GitHub stars](https://img.shields.io/github/stars/motiondivision/motion) | [Docs](https://motion.dev) | ✅ | ✅ | ✅ | Modern animation library for React, JS and Vue (formerly Framer Motion) |
 | [Hover.dev](https://github.com/hover-labs/components) | - | [Docs](https://www.hover.dev) | ✅ | ✅ | ✅ | Animated UI components for React and Tailwind CSS |
+| [Hyperiux Vault](https://github.com/Hyperiux-Immersion-Labs/hyperiux-components) | ![GitHub stars](https://img.shields.io/github/stars/Hyperiux-Immersion-Labs/hyperiux-components) | [Docs](https://vault.hyperiux.com) | ✅ | ✅ | ✅ | Animation effects and interactive components for Next.js, installed via CLI that copies source directly into your project |
 
 ### React Specialty Components
 
